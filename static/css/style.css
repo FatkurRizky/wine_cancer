@@ -1,0 +1,8 @@
+body{
+    background: url('/wine_cancer/static/img/bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    margin: 0;
+    background-attachment: fixed;
+}

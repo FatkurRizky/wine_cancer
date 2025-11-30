@@ -1,0 +1,7 @@
+cara install tailwindcss 3.4.17 stabil
+-npm install -D tailwindcss@3.4.17
+-npx tailwindcss init
+Nanti, jika kamu memindahkan project ini ke komputer lain atau ke server, kamu cukup menjalankan satu perintah ini di terminal
+pip install -r requirements.txt
+
+
